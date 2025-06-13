@@ -33,7 +33,7 @@ header a:hover {
 
 body {
     background-color: #222;
-    background-image: url(images/bg.png);
+    background-image: url(bg.png);
     color: #ddd;
     font-size: 13pt;
     max-width: 800px;
